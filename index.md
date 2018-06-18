@@ -1,14 +1,11 @@
 ## 42-5
-
 ウェブサイト予定地
 
 ### スクショ
-
 画像テスト
 
 <a href="https://raw.githubusercontent.com/qlsddc/42-5/master/th_kakidan_01.jpg">
 <img src="https://raw.githubusercontent.com/qlsddc/42-5/master/th_kakidan_01.jpg" width="320"></a><br>
-　  
 　  
 　  
 #### 東方怪綺談 二次創作Short Demo
