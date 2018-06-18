@@ -6,8 +6,8 @@
 
 画像テスト
 
-<a href="https://raw.githubusercontent.com/qlsddc/42-5/master/th_kakidan_01.png">
-<img src="https://raw.githubusercontent.com/qlsddc/42-5/master/th_kakidan_01.png" width="320"></a>
+<a href="https://raw.githubusercontent.com/qlsddc/42-5/master/th_kakidan_01.jpg">
+<img src="https://raw.githubusercontent.com/qlsddc/42-5/master/th_kakidan_01.jpg" width="320"></a>
 
 
 
