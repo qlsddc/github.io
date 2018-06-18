@@ -11,7 +11,8 @@
 　  
 　  
 　  
-### 東方怪綺談 二次創作Short Demo(Twitter全消しによりお亡くなりなったやつ)
+#### 東方怪綺談 二次創作Short Demo
+(Twitter全消しによりお亡くなりなったやつ)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/FPMZjag6eDE?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 
