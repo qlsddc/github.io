@@ -4,7 +4,7 @@
 ### スクショ
 画像テスト
 
-![img01](https://raw.githubusercontent.com/qlsddc/42-5/master/th_kakidan_01.jpg | width=50)
+![img01](https://raw.githubusercontent.com/qlsddc/42-5/master/th_kakidan_01.jpg)
 <a href="https://github.com/qlsddc/42-5/raw/master/th_pra_01.jpg"><img src="https://github.com/qlsddc/42-5/raw/master/th_pra_01.jpg" width="640"></a><br>
 　  
 #### 音楽
