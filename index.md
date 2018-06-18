@@ -5,7 +5,9 @@
 画像テスト
 
 <a href="https://raw.githubusercontent.com/qlsddc/42-5/master/th_kakidan_01.jpg">
-<img src="https://raw.githubusercontent.com/qlsddc/42-5/master/th_kakidan_01.jpg" width="320"></a><br>
+<img src="https://raw.githubusercontent.com/qlsddc/42-5/master/th_kakidan_01.jpg" width="320">
+<a href="https://raw.githubusercontent.com/qlsddc/42-5/master/th_pra_01.jpg">
+<img src="https://raw.githubusercontent.com/qlsddc/42-5/master/th_pra_01.jpg" width="320"></a></a><br>
 　  
 #### 音楽
 [マヨヒガ回想曲](https://github.com/qlsddc/42-5/raw/master/mayohiga.mp3)
