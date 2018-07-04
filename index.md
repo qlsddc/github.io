@@ -12,7 +12,12 @@
 #### 音楽
 [マヨヒガ回想曲](https://github.com/qlsddc/42-5/raw/master/mayohiga.mp3)  
 [ショパン - ワルツイ短調(遺作/アレンジ)](https://github.com/qlsddc/42-5/raw/master/Chopin_Waltz_A_minor.mp3)
-　  
+
+####楽譜
+[凋叶棕 - Bonus Track](https://github.com/qlsddc/42-5/raw/master/score_01_bonus_track.pdf)
+[凋叶棕 - 宴のあと。](https://github.com/qlsddc/42-5/raw/master/score_02_utage_no_ato.pdf)
+[ぬのしせ。 - 阿礼二重奏曲](https://github.com/qlsddc/42-5/raw/master/score_03_arei.pdf)
+ 
 　  
 #### 東方怪綺談 二次創作Short Demo
 (Twitter全消しによりお亡くなりなったやつ)
