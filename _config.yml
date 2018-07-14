@@ -1,3 +1,1 @@
 theme: jekyll-theme-slate
-ga('create', 'UA-122002181-1', 'auto');
-ga('send', 'pageview');
