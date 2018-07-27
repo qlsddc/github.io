@@ -1,25 +1,25 @@
 [twitter](https://twitter.com/qlsddc) [soundcloud](https://soundcloud.com/hawatari_30/)  
 
 
-### Game
+### ゲーム
 [紅魔郷4面魔道書地帯を作ろう Ver 1.20](https://github.com/qlsddc/42-5/raw/master/th_hon.rar)---[ゲーム画面](https://github.com/qlsddc/42-5/raw/master/th_hon_01.jpg)  
 
-### Artwork
+### イラスト
 <a href="https://github.com/qlsddc/42-5/raw/master/02_25.jpg">
 <img src="https://github.com/qlsddc/42-5/raw/master/02_25s.jpg"></a>
   
   
-### Image
+### スクショ
 <a href="https://github.com/qlsddc/42-5/raw/master/th_kakidan_01.jpg">
 <img src="https://github.com/qlsddc/42-5/raw/master/th_kakidan_01.jpg" width="320"></a>
 <a href="https://github.com/qlsddc/42-5/raw/master/th_pra_01.jpg">
 <img src="https://github.com/qlsddc/42-5/raw/master/th_pra_01.jpg" width="640"></a><br>
 　  
-#### Music(mp3)
+#### 音楽(mp3)
 [マヨヒガ回想曲](https://github.com/qlsddc/42-5/raw/master/mayohiga.mp3)  
 [ショパン - ワルツイ短調(遺作/アレンジ)](https://github.com/qlsddc/42-5/raw/master/Chopin_Waltz_A_minor.mp3)
 
-#### Piano Score(pdf)
+#### ピアノ楽譜(pdf)
 [凋叶棕 - Bonus Track](https://github.com/qlsddc/42-5/raw/master/score_01_bonus_track.pdf)  
 [凋叶棕 - 宴のあと。](https://github.com/qlsddc/42-5/raw/master/score_02_utage_no_ato.pdf)  
 [ぬのしせ。 - 阿礼二重奏曲](https://github.com/qlsddc/42-5/raw/master/score_03_arei.pdf)  
