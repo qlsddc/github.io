@@ -7,6 +7,8 @@
 ### イラスト
 <a href="https://github.com/qlsddc/42-5/raw/master/02_25.jpg">
 <img src="https://github.com/qlsddc/42-5/raw/master/02_25s.jpg"></a>
+<a href="https://github.com/qlsddc/42-5/raw/master/02_23.jpg">
+<img src="https://github.com/qlsddc/42-5/raw/master/02_23s.jpg"></a>
   
   
 ### スクショ
