@@ -5,13 +5,12 @@
 ### ゲーム
 [紅魔郷4面魔道書地帯を作ろう Ver 1.20](https://github.com/qlsddc/42-5/raw/master/th_hon.rar)---[ゲーム画面](https://github.com/qlsddc/42-5/raw/master/th_hon_01.jpg)  
 
-
-
+### イラスト
+<a href="https://github.com/qlsddc/42-5/raw/master/02_25.jpg">
+<img src="https://github.com/qlsddc/42-5/raw/master/02_25s.jpg"></a>
   
   
 ### スクショ
-画像テスト
-
 <a href="https://github.com/qlsddc/42-5/raw/master/th_kakidan_01.jpg">
 <img src="https://github.com/qlsddc/42-5/raw/master/th_kakidan_01.jpg" width="320"></a>
 <a href="https://github.com/qlsddc/42-5/raw/master/th_pra_01.jpg">
