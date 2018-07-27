@@ -1,4 +1,4 @@
-[twitter](https://twitter.com/qlsddc) 
+[twitter](https://twitter.com/qlsddc) [soundcloud](https://soundcloud.com/hawatari_30/)  
 
 
 ### ゲーム
