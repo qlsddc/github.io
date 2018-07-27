@@ -1,5 +1,4 @@
-/[twitter](https://twitter.com/qlsddc) /[soundcloud](https://soundcloud.com/hawatari_30/)  
-メールアドレス：qlsddc@gmail.com  
+/[twitter](https://twitter.com/qlsddc) /[soundcloud](https://soundcloud.com/hawatari_30/) /mail:qlsddc@gmail.com  
 
 
 ### ゲーム
