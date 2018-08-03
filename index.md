@@ -19,6 +19,7 @@
 　  
 #### 音楽(mp3)
 [マヨヒガ回想曲](https://github.com/qlsddc/42-5/raw/master/mayohiga.mp3)  
+[FF5 - 未知なる大地](https://github.com/qlsddc/42-5/raw/master/unknown_lands.mp3)  
 [ショパン - ワルツイ短調(遺作/アレンジ)](https://github.com/qlsddc/42-5/raw/master/Chopin_Waltz_A_minor.mp3)
 
 #### ピアノ楽譜(pdf)
