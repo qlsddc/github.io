@@ -30,8 +30,12 @@
 [ぬのしせ。 - 阿礼二重奏曲](https://github.com/qlsddc/42-5/raw/master/score_03_arei.pdf)  
 [彩京 - ドラゴンブレイズ 霧面(Psikyo - Dragon Blaze Stage 01)](https://github.com/qlsddc/42-5/raw/master/score_04_db_fog.pdf)
 ---[mp3](https://github.com/qlsddc/42-5/raw/master/dragon_blaze_stage_01_piano.mp3)  
+   
+#### その他
+[怒首領蜂メモ](https://qlsddc.github.io/42-5/dodonpachi)  
  
 　  
+   
 #### 東方怪綺談 二次創作Short Demo
 (Twitter全消しによりお亡くなりなったやつ)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/FPMZjag6eDE?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
