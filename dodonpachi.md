@@ -28,7 +28,7 @@
    
 ![alt](https://github.com/qlsddc/42-5/raw/master/hibachi.png)   
 ※安定してこのくらい削ることができます。5文字分くらい。   
-###<span style="color:red;">怒首領蜂AC版とPS版の違い</span>   
+### <span style="color:red;">怒首領蜂AC版とPS版の違い</span>   
 ・<span style="color:red;">致命的な点</span>   
 ・蜂アイテムを出してもゲージとHIT数が伸びない→あらゆる部分で蜂アイテムなしで安定して繋がるようにしなければならない。   
 ・地上星をショットで出してもゲージとHIT数が伸びない→4面中盤大型機×3地帯など、これによりかなり繋ぐのが面倒に。   
