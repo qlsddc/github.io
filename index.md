@@ -2,6 +2,8 @@
    
 /[twitter](https://twitter.com/qlsddc) /[soundcloud(new)](https://soundcloud.com/qlsddc/) /[soundcloud(old)](https://soundcloud.com/hawatari_30/) /連絡先: qlsddc@gmail.com  
 
+### 更新情報
+2018/12/22 - [RD-Sounds(凋叶棕) - 空に近い場所(ピアノ編曲)](https://t.co/lNxCbWZCjX)-音源だけで楽譜はまたいずれ   
 
 ### ゲーム
 [紅魔郷4面魔道書地帯を作ろう Ver 1.20](https://github.com/qlsddc/42-5/raw/master/th_hon.rar)---[ゲーム画面](https://github.com/qlsddc/42-5/raw/master/th_hon_01.jpg)  
