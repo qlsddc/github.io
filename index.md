@@ -4,7 +4,7 @@
 
 ### 更新情報
 2018/12/27 - 
-[RD-Sounds(凋叶棕) - 空に近い場所](https://github.com/qlsddc/42-5/raw/master/soratika.pdf)
+[RD-Sounds(凋叶棕) - 空に近い場所(pdf)](https://github.com/qlsddc/42-5/raw/master/soratika.pdf)
 ---[mp3](https://github.com/qlsddc/42-5/raw/master/soratika.mp3)  
 
 ### ゲーム
