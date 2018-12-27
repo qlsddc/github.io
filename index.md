@@ -29,8 +29,8 @@
 [ショパン - ワルツイ短調(遺作/アレンジ)](https://github.com/qlsddc/42-5/raw/master/Chopin_Waltz_A_minor.mp3)
 
 #### ピアノ楽譜(pdf)
-[凋叶棕 - Bonus Track](https://github.com/qlsddc/42-5/raw/master/score_01_bonus_track.pdf)  
-[凋叶棕 - 宴のあと。](https://github.com/qlsddc/42-5/raw/master/score_02_utage_no_ato.pdf)  
+[RD-Sounds(凋叶棕) - Bonus Track](https://github.com/qlsddc/42-5/raw/master/score_01_bonus_track.pdf)  
+[RD-Sounds(凋叶棕) - 宴のあと。](https://github.com/qlsddc/42-5/raw/master/score_02_utage_no_ato.pdf)  
 [ぬのしせ。 - 阿礼二重奏曲](https://github.com/qlsddc/42-5/raw/master/score_03_arei.pdf)  
 [彩京 - ドラゴンブレイズ 霧面(Psikyo - Dragon Blaze Stage 01)](https://github.com/qlsddc/42-5/raw/master/score_04_db_fog.pdf)
 ---[mp3](https://github.com/qlsddc/42-5/raw/master/dragon_blaze_stage_01_piano.mp3)  
