@@ -3,7 +3,9 @@
 /[twitter](https://twitter.com/qlsddc) /[soundcloud(new)](https://soundcloud.com/qlsddc/) /[soundcloud(old)](https://soundcloud.com/hawatari_30/) /連絡先: qlsddc@gmail.com  
 
 ### 更新情報
-2018/12/22 - [RD-Sounds(凋叶棕) - 空に近い場所](https://t.co/lNxCbWZCjX)(ピアノ編曲/原曲：ジャパニーズサーガ)-音源だけで楽譜はまたいずれ   
+2018/12/27 - 
+[RD-Sounds(凋叶棕) - 空に近い場所](https://github.com/qlsddc/42-5/raw/master/soratika.pdf)
+---[mp3](https://github.com/qlsddc/42-5/raw/master/soratika.mp3)  
 
 ### ゲーム
 [紅魔郷4面魔道書地帯を作ろう Ver 1.20](https://github.com/qlsddc/42-5/raw/master/th_hon.rar)---[ゲーム画面](https://github.com/qlsddc/42-5/raw/master/th_hon_01.jpg)  
@@ -32,6 +34,8 @@
 [ぬのしせ。 - 阿礼二重奏曲](https://github.com/qlsddc/42-5/raw/master/score_03_arei.pdf)  
 [彩京 - ドラゴンブレイズ 霧面(Psikyo - Dragon Blaze Stage 01)](https://github.com/qlsddc/42-5/raw/master/score_04_db_fog.pdf)
 ---[mp3](https://github.com/qlsddc/42-5/raw/master/dragon_blaze_stage_01_piano.mp3)  
+[RD-Sounds(凋叶棕) - 空に近い場所](https://github.com/qlsddc/42-5/raw/master/soratika.pdf)
+---[mp3](https://github.com/qlsddc/42-5/raw/master/soratika.mp3)  
    
 #### その他
 [怒首領蜂メモ](https://qlsddc.github.io/42-5/dodonpachi)  
