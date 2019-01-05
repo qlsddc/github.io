@@ -1,6 +1,6 @@
 >"Music is emotion, controlled emotion." -- Vladimir Horowitz   
    
-/[twitter](https://twitter.com/qlsddc) /[soundcloud(new)](https://soundcloud.com/qlsddc/) /[soundcloud(old)](https://soundcloud.com/hawatari_30/) /連絡先: qlsddc@gmail.com  
+/[twitter](https://twitter.com/qlsddc) /[soundcloud(new)](https://soundcloud.com/qlsddc/) /連絡先: qlsddc@gmail.com  
 
 ### 更新情報
 2018/12/27 - 
