@@ -16,7 +16,7 @@
 <a href="https://github.com/qlsddc/42-5/raw/master/02_23.jpg">
 <img src="https://github.com/qlsddc/42-5/raw/master/02_23s.jpg"></a>
 <a href="https://github.com/qlsddc/42-5/raw/master/illust_01.jpg">
-<img src="https://github.com/qlsddc/42-5/raw/master/illust_01.jpg"></a>
+<img src="https://github.com/qlsddc/42-5/raw/master/illust_01s.jpg"></a>
   
   
 ### スクショ
