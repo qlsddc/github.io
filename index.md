@@ -28,7 +28,6 @@
 #### 音楽(mp3)
 [マヨヒガ回想曲](https://github.com/qlsddc/42-5/raw/master/mayohiga.mp3)  
 [Final Fantasy 5 - 未知なる大地](https://github.com/qlsddc/42-5/raw/master/unknown_lands.mp3)  
-[Valkyrie Profile - Turn Over a New Leaf](https://github.com/qlsddc/42-5/raw/master/turn_over_a_new_leaf.mp3)  
 [ロックマン10 - Against the Pressure](https://github.com/qlsddc/42-5/raw/master/against_the_pressure.mp3)  
 [洞窟物語 - セメタリー](https://github.com/qlsddc/42-5/raw/master/cavestory_cemetery.mp3)  
 [洞窟物語 - 胎生](https://github.com/qlsddc/42-5/raw/master/cavestory_gestation.mp3)  
